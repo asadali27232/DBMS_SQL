@@ -1,0 +1,13 @@
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\bin\Debug\MyCourses.exe.config
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\bin\Debug\MyCourses.exe
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\bin\Debug\MyCourses.pdb
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.csproj.AssemblyReference.cache
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.csproj.SuggestedBindingRedirects.cache
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.Form1.resources
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.Properties.Resources.resources
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.csproj.GenerateResource.cache
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.csproj.CoreCompileInputs.cache
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.exe
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.pdb
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\bin\Debug\Guna.UI2.dll
+C:\Users\asada\OneDrive\CIIT\Database Systems I\DBMS_SQL\C# Frontend\LAB 1\MyCourses\obj\Debug\MyCourses.csproj.CopyComplete
