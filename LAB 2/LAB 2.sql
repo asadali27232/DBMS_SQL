@@ -95,6 +95,47 @@ select * from tbl_registration
 -- 1. Kill the child
 -- 2. Null the value of child
 -- 3. Change the parent of that child
+-- nevigate to keys folder in child table
 
 delete from tbl_student where s_id=11
 
+alter table tbl_student 
+add section varchar(15) null
+
+alter table tbl_course
+add credit_hours int null
+
+alter table tbl_course
+add course_code varchar(6) null
+
+truncate table tbl_student
+delete from tbl_student
+
+select * from tbl_student
+select * from tbl_course
+select * from tbl_registration
+
+insert into tbl_student values
+(
+	1,
+	'Asad Ali',
+	'SP21-BCS-007',
+	'A'
+)
+
+insert into tbl_course values 
+(
+	1,
+	'Database Systems I',
+	3,
+	'CSC333'
+)
+
+insert into tbl_student values (1, 'Asad Ali', 'SP21-BCS-007','A')
+insert into tbl_course values (1, 'Database Systems I', 3, 'CSC333')
+
+alter table tbl_course
+drop column course_code
+
+select * from tbl_student
+select * from tbl_course
