@@ -31,7 +31,3 @@ from
 (select OrderID, UnitPrice*Quantity  AS total_amount
 FROM [Order Details]) as tbbl
 group by OrderID
-
--- Index
---		Clustered: only one in a table, just like table of content in book
---		Non-clusetered: multiple in table, just like dictionary
