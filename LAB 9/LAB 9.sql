@@ -45,3 +45,25 @@ as
 select e.EmployeeID, (e.FirstName + ' ' + e.LastName) as [Name] from dbo.Employees e
 
 create unique clustered index ix_mang_view on mang_view(EmployeeID)   
+
+--Procedures
+create procedure SP_name
+as
+begin
+	select * from customers
+end
+
+alter procedure SP_name
+@cust_name varchar(20),
+@city_name varchar(20),
+@total int output
+as
+begin
+	select @total = count(City) from customers where ContactName = @cust_name or City = @city_name
+end
+
+-- Batch
+declare @myOut int
+execute SP_name 'Maria Anders', 'Lahore', @myOut output
+print @myOut
+-- Batch End
